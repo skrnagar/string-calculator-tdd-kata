@@ -1,0 +1,15 @@
+{
+  "name": "incubyte-test-tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+    "test": "jest"
+},
+  "keywords": ["TDD", "Test Driven Development", "String Calculator"],
+  "author": "Sunil Kumar Nagar",
+  "license": "MIT",
+  "description": "Incubyte TDD Assessment - String Calculator Kata",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
